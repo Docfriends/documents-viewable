@@ -23,6 +23,8 @@
 
 <img src="https://github.com/jacenam/WIL-archive/assets/92138751/494f5a7b-1353-48d8-bc98-386ddaa7822a" style="width: 100%">
 
+
+
 <br>
 
 ## 타 지식iN 전문가 서비스와의 비교
